@@ -24,7 +24,7 @@ const Navbar = () => {
 
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <img src="/src/assets/logo_himasi.png" alt="SIVORA"
+            <img src="/logo_himasi.png" alt="SIVORA"
               className="w-8 h-8 object-contain" />
             <span className="text-white font-black text-lg">SIVORA</span>
           </div>

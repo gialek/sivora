@@ -58,7 +58,7 @@ const Sidebar = () => {
         <div className="p-6 border-b border-white border-opacity-20">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <img src="/src/assets/logo_himasi.png" alt="SIVORA"
+              <img src="/logo_himasi.png" alt="SIVORA"
                 className="w-10 h-10 object-contain flex-shrink-0" />
               <div>
                 <h1 className="text-white font-black text-lg leading-tight">SIVORA</h1>

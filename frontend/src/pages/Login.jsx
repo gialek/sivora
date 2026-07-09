@@ -65,7 +65,7 @@ const Login = () => {
         <div className="text-center">
           <div className="mb-6">
             <img
-              src="/src/assets/logo_himasi.png"
+              src="/logo_himasi.png"
               alt="SIPEMIRA"
               className="w-52 h-52 mx-auto mb-4 object-contain"
             />

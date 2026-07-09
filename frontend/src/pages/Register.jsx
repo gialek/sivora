@@ -62,7 +62,7 @@ const Register = () => {
         style={{ backgroundColor: '#1e3a5f' }}>
         <div className="text-center">
           <img
-              src="/src/assets/logo_himasi.png"
+              src="/logo_himasi.png"
               alt="SIPEMIRA"
               className="w-40 h-40 mx-auto mb-4 object-contain"
             />
